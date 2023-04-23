@@ -18,7 +18,7 @@ Creating user stories is a helpful technique for translating user needs into spe
 
 How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 
-CS250 is my first experience with an Agile Scrum enviroment. I have learned that with the use oif the Scrum tools and policies you have the ablity to be well orginized with strong team collarbrtion. I will be taking the learned diffrent enviroments to my next career.
+CS250 is my first experience with an Agile Scrum enviroment. I have learned that with the use of the Scrum tools and policies you have the ablity to be well orginized with strong team collarbrtion skills. I will be taking what I have learned to diffrent aspect of my career no in constrution project management.
 
 
 
